@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [ app-name, email-javamail, http-client-test, java, java-application, junit, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, netty-server, openapi, properties, rabbitmq, readme, redis-lettuce, serialization-jackson, shade, slf4j-simple-logger, static-resources, swagger-ui, test-resources ]
